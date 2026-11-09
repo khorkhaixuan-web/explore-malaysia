@@ -1,0 +1,14 @@
+[
+  { "id": 1, "destination": "Langkawi, Kedah", "category": "Beach", "duration": "4 Days 3 Nights", "price": 1299, "description": "Island hopping, the Langkawi Sky Bridge cable car, mangrove kayaking and a sunset beach dinner at Pantai Cenang." },
+  { "id": 2, "destination": "George Town, Penang", "category": "Heritage", "duration": "3 Days 2 Nights", "price": 799, "description": "UNESCO heritage walk, street art trail, Kek Lok Si Temple and a guided street food tour of Gurney Drive and Chulia Street." },
+  { "id": 3, "destination": "Cameron Highlands, Pahang", "category": "Nature", "duration": "3 Days 2 Nights", "price": 699, "description": "Boh tea plantation visit, strawberry farms, Mossy Forest guided trek and cool highland evenings." },
+  { "id": 4, "destination": "Melaka City", "category": "Heritage", "duration": "2 Days 1 Night", "price": 459, "description": "A Famosa, Christ Church, Jonker Street night market and a river cruise through the historic city centre." },
+  { "id": 5, "destination": "Perhentian Islands, Terengganu", "category": "Beach", "duration": "4 Days 3 Nights", "price": 1199, "description": "Crystal-clear water, snorkelling with turtles and reef sharks, and a relaxing stay by the beach." },
+  { "id": 6, "destination": "Kuching, Sarawak", "category": "Adventure", "duration": "5 Days 4 Nights", "price": 1899, "description": "Bako National Park wildlife trek, Semenggoh orangutan centre, a longhouse visit and Sarawak laksa tasting." },
+  { "id": 7, "destination": "Kundasang & Mount Kinabalu, Sabah", "category": "Adventure", "duration": "5 Days 4 Nights", "price": 2199, "description": "Kinabalu Park, Poring hot springs, the canopy walk and sunrise views over the highest peak in Malaysia." },
+  { "id": 8, "destination": "Taman Negara, Pahang", "category": "Nature", "duration": "3 Days 2 Nights", "price": 899, "description": "River cruise, canopy walkway and a jungle trek through one of the oldest rainforests in the world." },
+  { "id": 9, "destination": "Kuala Lumpur City", "category": "City", "duration": "3 Days 2 Nights", "price": 899, "description": "Petronas Towers, KL Tower, Batu Caves, Central Market and Jalan Alor street food." },
+  { "id": 10, "destination": "Tioman Island, Pahang", "category": "Beach", "duration": "3 Days 2 Nights", "price": 899, "description": "Snorkelling at Marine Park Island, jungle waterfalls and white sandy beaches for a short island escape." },
+  { "id": 11, "destination": "Ipoh, Perak", "category": "Heritage", "duration": "2 Days 1 Night", "price": 399, "description": "Limestone cave temples, old town murals, white coffee tasting and the famous Ipoh bean sprout chicken." },
+  { "id": 12, "destination": "Semporna & Sipadan, Sabah", "category": "Adventure", "duration": "5 Days 4 Nights", "price": 2799, "description": "Island hopping at Mabul and Mataking, plus a world-class diving and snorkelling experience." }
+]
